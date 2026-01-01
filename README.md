@@ -1,1 +1,1 @@
-# L-tiumion-szelekt-v-v-ztisztit-rendszer
+# Lítiumion-szelektív vítisztitó rendszer
