@@ -1,1 +1,1 @@
-# Lithiumion water cleaning system
+# Lithium-ion water cleaning system
