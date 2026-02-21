@@ -1,1 +1,1 @@
-# Lithium-ion water cleaning system
+# Litiumion-szelektiv-viztisztito-rendszer
