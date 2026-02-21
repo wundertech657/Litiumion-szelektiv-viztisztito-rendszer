@@ -1,1 +1,1 @@
-# Lítiumion-szelektív vítisztitó rendszer
+# Lithiumion water cleaning system
